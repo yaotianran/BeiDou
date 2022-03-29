@@ -1,0 +1,17 @@
+Rplot_tree01.pdf
+The annotated tree clusters based weighted expression pattern for down-regulated genes. Those genes express lower in EAC cases than ESCC cases.
+
+Rplot_tree02.pdf
+The annotated tree clusters based weighted expression pattern for down-regulated genes. Those genes express higher in EAC cases than ESCC cases.
+
+index.jpg
+DNA binding 标志物对ESCC和EAC样本的AUC曲线和箱型图。上：对TCGA样本中两种肿瘤。 下：对GEO验证数据中两种肿瘤
+
+index-2.jpg
+TME 标志物对对GEO验证数据中两种肿瘤ESCC和EAC样本的AUC曲线和箱型图。
+
+Figure_4_1.png
+DNA binding 标志物对于TCGA食管癌病例的生存曲线
+
+Figure_4_2.png
+DNA binding 标志物对于GSE53625中食管癌病例的生存曲线

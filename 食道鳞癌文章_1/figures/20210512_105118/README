@@ -1,0 +1,11 @@
+CLASSIFIER= [SVC(probability=True), SVC(kernel='linear', probability=True), LogisticRegression(max_iter=10000, solver='liblinear'), GaussianNB(), KNeighborsClassifier(algorithm='brute', n_neighbors=3), KNeighborsClassifier(algorithm='brute', n_neighbors=7), KNeighborsClassifier(algorithm='brute', n_neighbors=11)]
+DATA_FILE= ~/sda1/ESCC/data/GSAV.GEO.tsv
+FEATURE_COLUMN= auto
+LABEL_COLUMN= auto
+SEARCH_METHOD= brutal
+FEATURE_AMOUNT_TO_PICKUP= [1, 2, 3, 4, 5]
+USE_FEATURE_RANK= 25
+VALIDATION_FOLD= 4
+REPEAT_FOLD= 200
+START_TIME= 20210512_105118
+END_TIME= 20210512_110147
